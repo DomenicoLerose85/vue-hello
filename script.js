@@ -4,6 +4,6 @@ new Vue ({
     data(){
         return {
             message: "Hello World !",
-        }
+        };   
     }
 });
